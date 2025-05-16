@@ -1,5 +1,5 @@
 # 💫 About Me:
-Love to learn and teach frontend development
+Love to learn, build projects and teach frontend development
 
 
 ## 🌐 Socials:
